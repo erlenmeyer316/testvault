@@ -14,7 +14,7 @@ area: <% projectArea %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
-  - <% baseTag %>
+  - project
 ---
 <%*
 let projectFolder = `/01_Projects/${noteTitle}/` 
