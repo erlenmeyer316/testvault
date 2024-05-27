@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Project.md",
-                "mode": "preview",
+                "file": "01_Projects/Poop/Poop.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Farts",
+                "query": "tag:#area",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project.md",
+                "file": "01_Projects/Poop/Poop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project.md",
+                "file": "01_Projects/Poop/Poop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Project.md"
+                "file": "01_Projects/Poop/Poop.md"
               }
             }
           }
@@ -199,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +212,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3359a071cb51ff4f",
+  "active": "6e6232a47f07c351",
   "lastOpenFiles": [
-    "01_Projects/Farts/Farts.md",
     "Templates/Project.md",
+    "01_Projects/Poop/Meeting Notes",
+    "01_Projects/Poop/Issues",
+    "01_Projects/Poop",
+    "01_Projects/Poop/Poop.md",
+    "01_Projects/Farts/Farts.md",
     "01_Projects/Farts/Meeting Notes",
     "01_Projects/Farts/Issues",
     "01_Projects/Farts",
@@ -237,9 +241,6 @@
     "01_Projects/My Project/My Project.md",
     "01_Projects/Work Project/Issues/What.md",
     "01_Projects/Work Project/Meeting Notes",
-    "01_Projects/Work Project/Issues",
-    "01_Projects/Work Project",
-    "Untitled",
     "Templates/Project - Issue.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/FARTS.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
@@ -248,7 +249,6 @@
     "dv.pages.md",
     "My Project Issue.md",
     "Templates/Project - Meeting Note.md",
-    "Templates/Area.md",
     "Untitled.canvas"
   ]
 }
