@@ -1,12 +1,14 @@
 ---
 <%*
+	let projectArea = (await tp.system.suggester((item) => item.basename, app.vault.getMarkdownFiles().filter(file => file.path.startsWith("02_Areas")), false, "Please select Area...")).basename
+
   let noteTitle = tp.file.title
   if (noteTitle.startsWith("Untitled")) {
 	noteTitle = await tp.system.prompt("Title");
 	await tp.file.rename(noteTitle);
   } 
   baseTag = "project"
-  let projectArea = (await tp.system.suggester((item) => item.basename, app.vault.getMarkdownFiles().filter(file => file.path.startsWith("02_Areas")), false, "Please select Area...")).basename
+
 
 %>
 title: <% noteTitle %>
