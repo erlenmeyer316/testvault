@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/Poop/Poop.md",
+                "file": "Templates/Project - Issue.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Projects/Poop/Poop.md",
+                "file": "Templates/Project - Issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Projects/Poop/Poop.md",
+                "file": "Templates/Project - Issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,12 +190,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Projects/Poop/Poop.md"
+                "file": "Templates/Project - Issue.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -212,23 +211,31 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6e6232a47f07c351",
+  "active": "3359a071cb51ff4f",
   "lastOpenFiles": [
+    "01_Projects/Work Project/Work Project.md",
+    "01_Projects/Work Project/Issues/What.md",
+    "Templates/Project - Issue.md",
+    "02_Areas/My Work Area.md",
+    "01_Projects/null/Issues",
+    "01_Projects/null",
+    "01_Projects/null/Issues/Issue.md",
     "Templates/Project.md",
+    "Templates/Area.md",
+    "01_Projects/FartSEx/FartSEx.md",
+    "01_Projects/FartSEx/Meeting Notes",
+    "01_Projects/FartSEx/Issues",
+    "01_Projects/FartSEx",
+    "01_Projects/POOPS/POOPS.md",
+    "01_Projects/POOPS/Meeting Notes",
+    "01_Projects/POOPS/Issues",
+    "01_Projects/POOPS",
+    "01_Projects/Poop/Poop.md",
     "01_Projects/Poop/Meeting Notes",
     "01_Projects/Poop/Issues",
-    "01_Projects/Poop",
-    "01_Projects/Poop/Poop.md",
     "01_Projects/Farts/Farts.md",
-    "01_Projects/Farts/Meeting Notes",
-    "01_Projects/Farts/Issues",
-    "01_Projects/Farts",
     "01_Projects/TEst Project/TEst Project.md",
     "02_Areas/Test Area.md",
-    "01_Projects/TEst Project/Meeting Notes",
-    "01_Projects/TEst Project/Issues",
-    "01_Projects/TEst Project",
-    "02_Areas/My Work Area.md",
     "02_Areas/My Personal Area.md",
     "Templates/Resource.md",
     "Templates/Resource - Book.md",
@@ -237,18 +244,10 @@
     "Templates/Resource - Record.md",
     "01_Projects/My Project/Issues/sdfasss.md",
     "05_MOCs/My MOC.md",
-    "01_Projects/Work Project/Work Project.md",
     "01_Projects/My Project/My Project.md",
-    "01_Projects/Work Project/Issues/What.md",
-    "01_Projects/Work Project/Meeting Notes",
-    "Templates/Project - Issue.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/FARTS.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
     "03_Resources/Document/Poem/My Poem.md",
-    "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]/Issues/Farts.md",
-    "dv.pages.md",
-    "My Project Issue.md",
-    "Templates/Project - Meeting Note.md",
     "Untitled.canvas"
   ]
 }
