@@ -14,6 +14,8 @@
 
 
 	let priority = await tp.system.suggester(["Lowest", "Low", "Normal", "Medium", "High", "Highest"], ["lowest", "low", "normal", "medium", "high", "highest"])
+	
+	let summary = await tp.system.prompt("Summary");
 %>
 title: <% noteTitle %> 
 labels: 
@@ -26,3 +28,14 @@ modified:
 tags:
   - project/issue
 ---
+> [!summary] Comments
+>  <% summary %>
+
+> [!blocking] Blocking
+> 
+
+> [!blocks] Blocks
+> 
+
+> [!linked] Linked Issues
+

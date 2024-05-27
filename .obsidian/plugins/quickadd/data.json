@@ -29,6 +29,34 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "0e42bbe7-06c3-444a-b32e-b3f3d653cbdd",
+      "name": "⛔️ Project - Issue",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Project - Issue.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "5386660a-3727-488c-b06b-c61f59c997f9",
       "name": "🏠 Area",
       "type": "Template",
