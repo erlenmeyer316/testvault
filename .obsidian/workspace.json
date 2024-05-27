@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/Work Project/Work Project.md",
-                "mode": "source",
+                "file": "Templates/Project.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Projects/Work Project/Work Project.md",
+                "file": "Templates/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Projects/Work Project/Work Project.md",
+                "file": "Templates/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Projects/Work Project/Work Project.md"
+                "file": "Templates/Project.md"
               }
             }
           }
@@ -214,42 +214,41 @@
   },
   "active": "3359a071cb51ff4f",
   "lastOpenFiles": [
-    "01_Projects/My Project/My Project.md",
+    "01_Projects/Farts/Farts.md",
+    "Templates/Project.md",
+    "01_Projects/Farts/Meeting Notes",
+    "01_Projects/Farts/Issues",
+    "01_Projects/Farts",
+    "01_Projects/TEst Project/TEst Project.md",
+    "02_Areas/Test Area.md",
+    "01_Projects/TEst Project/Meeting Notes",
+    "01_Projects/TEst Project/Issues",
+    "01_Projects/TEst Project",
+    "02_Areas/My Work Area.md",
+    "02_Areas/My Personal Area.md",
+    "Templates/Resource.md",
+    "Templates/Resource - Book.md",
+    "Templates/Resource - Device.md",
+    "Templates/Resource - Document.md",
+    "Templates/Resource - Record.md",
     "01_Projects/My Project/Issues/sdfasss.md",
+    "05_MOCs/My MOC.md",
+    "01_Projects/Work Project/Work Project.md",
+    "01_Projects/My Project/My Project.md",
     "01_Projects/Work Project/Issues/What.md",
     "01_Projects/Work Project/Meeting Notes",
     "01_Projects/Work Project/Issues",
     "01_Projects/Work Project",
-    "01_Projects/Work Project/Work Project.md",
     "Untitled",
     "Templates/Project - Issue.md",
-    "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues",
-    "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]",
-    "01_Projects/[[01_Projects/My Project",
-    "01_Projects/[[01_Projects",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/FARTS.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
     "03_Resources/Document/Poem/My Poem.md",
     "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]/Issues/Farts.md",
-    "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]/Issues",
-    "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]",
     "dv.pages.md",
     "My Project Issue.md",
-    "Templates/Project.md",
     "Templates/Project - Meeting Note.md",
-    "Templates/Resource.md",
-    "Templates/Resource - Document.md",
     "Templates/Area.md",
-    "Templates/Map of Content.md",
-    "Templates/Resource - Device.md",
-    "01_Projects/My Project/Untitled.md",
-    "05_MOCs/My MOC.md",
-    "03_Resources/My Resource.md",
-    "03_Resources/Document/Short Story/My Short Story.md",
-    "02_Areas/My Work Area.md",
-    "02_Areas/My Professional Area.md",
-    "02_Areas/My Personal Area.md",
-    "02_Areas/My Area.md",
     "Untitled.canvas"
   ]
 }

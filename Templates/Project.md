@@ -10,7 +10,7 @@
 
 %>
 title: <% noteTitle %>
-area: <% projectArea %>
+area: `[[${projectArea}]]`
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
