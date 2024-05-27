@@ -61,7 +61,14 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "path",
+                "operator": "contains",
+                "enabled": true,
+                "value": "Issues"
+              }
+            ]
           },
           "colors": {
             "conditions": []
@@ -76,6 +83,48 @@
       ],
       "id": "7700512a-e507-4bed-95f0-8314bdcee3de",
       "name": "My Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01_Projects/Work Project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"project\"]"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5de6388f-55cb-442f-b58c-95e836289492",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "a07dcc62-a00f-473d-a25c-b809423b1fd9",
+      "name": "Work Project"
     }
   ],
   "archives": [],

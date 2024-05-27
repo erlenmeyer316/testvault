@@ -11,7 +11,7 @@
 	
 	let suggestions = projects.name;
 	let values = projects.link;
-	let project = await tp.system.suggester(suggestions,values);
+	let project = await tp.system.suggester(suggestions,suggestions);
 
 	console.log(project)
 	let priority = await tp.system.suggester(["Lowest", "Low", "Normal", "Medium", "High", "Highest"], ["lowest", "low", "normal", "medium", "high", "highest"])

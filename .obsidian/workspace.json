@@ -61,14 +61,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
-                "mode": "preview",
+                "file": "01_Projects/My Project/Issues/sdfasss.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "3359a071cb51ff4f",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -200,21 +204,26 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "76027ef57a661cbf",
+  "active": "52c99c6028aebc5f",
   "lastOpenFiles": [
+    "01_Projects/Work Project/Issues/What.md",
+    "01_Projects/Work Project/Meeting Notes",
+    "01_Projects/Work Project/Issues",
+    "01_Projects/Work Project",
+    "01_Projects/Work Project/Work Project.md",
+    "Untitled",
+    "01_Projects/My Project/Issues/sdfasss.md",
     "Templates/Project - Issue.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]",
     "01_Projects/[[01_Projects/My Project",
     "01_Projects/[[01_Projects",
+    "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/FARTS.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
     "03_Resources/Document/Poem/My Poem.md",
     "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]/Issues/Farts.md",
     "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]/Issues",
     "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]",
-    "01_Resources/[[01_Projects/My Project",
-    "01_Resources/[[01_Projects",
-    "01_Resources",
     "dv.pages.md",
     "My Project Issue.md",
     "01_Projects/My Project/My Project.md",
@@ -225,7 +234,6 @@
     "Templates/Area.md",
     "Templates/Map of Content.md",
     "Templates/Resource - Device.md",
-    "Untitled",
     "01_Projects/My Project/Untitled.md",
     "05_MOCs/My MOC.md",
     "03_Resources/My Resource.md",
@@ -234,9 +242,6 @@
     "02_Areas/My Professional Area.md",
     "02_Areas/My Personal Area.md",
     "02_Areas/My Area.md",
-    "03_Resources/Devices/Usb Thumb Drive/My USB Thumb Drive Device1.md",
-    "My USB Memory Stick Device.md",
-    "My USB Thumb Drive Device.md",
     "Untitled.canvas"
   ]
 }
