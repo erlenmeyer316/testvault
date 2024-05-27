@@ -16,6 +16,7 @@ tags:
 <%*
 let mocFolder = "/05_MOCs/" 
 await tp.file.move(mocFolder + noteTitle);
+await this.app.vault.createFolder("/04_Archives/05_MOCs")
 -%>
 
 <% noteTitle %> Query

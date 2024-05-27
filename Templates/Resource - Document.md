@@ -38,5 +38,6 @@ if (!docType.startsWith("document")) {
 	resourceHolder = `${resourceHolder}${subFolder}/`
 }
 await tp.file.move(resourceHolder + noteTitle);
-await this.app.vault.createFolder("/04_Archives")
+let archiveHolder = `04_Archives/${resourceHolder}/`
+await this.app.vault.createFolder(archiveHolder)
 -%>
