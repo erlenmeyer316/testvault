@@ -7,7 +7,8 @@
 	} 
 
 	const dv = this.app.plugins.plugins["dataview"].api;
-	let projects = dv.pages("#project/details").file.sort(n => n.name);
+	let projects = dv.pages("#project").file.sort(n => n.name);
+	
 	let suggestions = projects.name;
 	let values = projects.link;
 	let project = await tp.system.suggester(suggestions,values);
