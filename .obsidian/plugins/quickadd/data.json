@@ -1,11 +1,11 @@
 {
   "choices": [
     {
-      "id": "f66b4288-b9cb-490f-b35f-f17320245ff1",
-      "name": "🪵 Resource",
+      "id": "5fa01422-ec33-46e8-88f9-960c389e570d",
+      "name": "👷🏽‍♂️Project",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/Resource.md",
+      "templatePath": "Templates/Project.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -57,8 +57,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "f66b4288-b9cb-490f-b35f-f17320245ff1",
+      "name": "🪵 Resource",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Resource.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "4dad9e6b-b36d-4d59-a0b6-5858b30b341c",
-      "name": "💻 Device",
+      "name": "💻 Resource - Device",
       "type": "Template",
       "command": false,
       "templatePath": "Templates/Resource - Device.md",
@@ -86,7 +114,7 @@
     },
     {
       "id": "9e4a760c-426b-4ea6-9889-f436efc55e65",
-      "name": "📜 Document",
+      "name": "📜 Resource - Document",
       "type": "Template",
       "command": false,
       "templatePath": "Templates/Resource - Document.md",
@@ -139,158 +167,9 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
-    },
-    {
-      "id": "5fa01422-ec33-46e8-88f9-960c389e570d",
-      "name": "👷🏽‍♂️Project",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Templates/Project.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
     }
   ],
-  "macros": [
-    {
-      "name": "Add Resource",
-      "id": "3622c5eb-35dd-4a1f-9569-6e252ae7c70e",
-      "commands": [
-        {
-          "name": "Note Title",
-          "type": "NestedChoice",
-          "id": "575a02a2-25ab-49b8-9e41-6ccc2dddb1aa",
-          "choice": {
-            "id": "626d248d-4b3f-48ff-829b-20fcfed72ebe",
-            "name": "Note Title",
-            "type": "Template",
-            "command": false,
-            "templatePath": "Templates/Resource.md",
-            "fileNameFormat": {
-              "enabled": false,
-              "format": ""
-            },
-            "folder": {
-              "enabled": true,
-              "folders": [],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false,
-              "chooseFromSubfolders": false
-            },
-            "appendLink": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": true,
-            "openFileInMode": "source",
-            "fileExistsMode": "Increment the file name",
-            "setFileExistsBehavior": false
-          }
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
-      "name": "Add Document",
-      "id": "1d11983b-2fac-4836-a4c6-4996f32919d8",
-      "commands": [
-        {
-          "name": "Note Title",
-          "type": "NestedChoice",
-          "id": "c3a8ebcb-6eb4-445b-adf6-4bdf5db34725",
-          "choice": {
-            "id": "dc236518-93c7-40a3-abe3-f29ea8ad3227",
-            "name": "Note Title",
-            "type": "Template",
-            "command": false,
-            "templatePath": "Templates/Resource - Document.md",
-            "fileNameFormat": {
-              "enabled": false,
-              "format": ""
-            },
-            "folder": {
-              "enabled": true,
-              "folders": [],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false,
-              "chooseFromSubfolders": false
-            },
-            "appendLink": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default",
-            "fileExistsMode": "Increment the file name",
-            "setFileExistsBehavior": false
-          }
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
-      "name": "Add Device",
-      "id": "125167e6-90d4-45c2-adc0-0eed042c866c",
-      "commands": [
-        {
-          "name": "Note Title",
-          "type": "NestedChoice",
-          "id": "27042af5-7701-4889-b541-559a3113a4a1",
-          "choice": {
-            "id": "572dd243-a488-4ab9-b0cc-5125c8c1e452",
-            "name": "Note Title",
-            "type": "Template",
-            "command": false,
-            "templatePath": "Templates/Resource - Device.md",
-            "fileNameFormat": {
-              "enabled": false,
-              "format": ""
-            },
-            "folder": {
-              "enabled": false,
-              "folders": [],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false,
-              "chooseFromSubfolders": false
-            },
-            "appendLink": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default",
-            "fileExistsMode": "Increment the file name",
-            "setFileExistsBehavior": false
-          }
-        }
-      ],
-      "runOnStartup": false
-    }
-  ],
+  "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "Templates",
