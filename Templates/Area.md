@@ -22,7 +22,9 @@ tags:
 let areaFolder = "/02_Areas/" 
 await tp.file.move(areaFolder + noteTitle);
 let archiveHolder = `04_Archives/${areaFolder}/`
-await this.app.vault.createFolder(archiveHolder)
+if (! tp.file.exists(archiveHolder)) {
+	await this.app.vault.createFolder(archiveHolder)
+}
 
 -%>
 

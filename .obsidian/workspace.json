@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fb81402ee9215f86",
+        "id": "3c506417a11974f8",
         "type": "tabs",
         "children": [
           {
-            "id": "79e495c203bd61ce",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "54f771ed251be37e",
+            "id": "3a680a264d282919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Project - Meeting Note.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "16d2e653ada2c578",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "3359a071cb51ff4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Project.md",
+                "file": "05_MOCs/My MOC.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project.md",
+                "file": "05_MOCs/My MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project.md",
+                "file": "05_MOCs/My MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Project.md"
+                "file": "05_MOCs/My MOC.md"
               }
             }
           }
@@ -180,26 +151,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3359a071cb51ff4f",
+  "active": "3a680a264d282919",
   "lastOpenFiles": [
+    "02_Areas/My Work Area.md",
+    "02_Areas/My Personal Area.md",
+    "01_Projects/My Personal Project/Issues/Another Personal Issue.md",
     "Templates/Area.md",
     "01_Projects/My Personal Project/Meeting Notes",
     "01_Projects/My Personal Project/Issues",
     "01_Projects/My Personal Project",
-    "01_Projects",
     "01_Projects/My Personal Project/My Personal Project.md",
-    "02_Areas/My Personal Area.md",
-    "04_Archives/02_Areas",
-    "02_Areas",
-    "02_Areas/My Work Area.md",
+    "01_Projects/My Personal Project/My Personal Project.md",
+    "01_Projects/Another Personal Project/Issues/Personal Issue.md",
+    "01_Projects/Another Personal Project/Meeting Notes",
+    "01_Projects/Another Personal Project/Issues",
+    "01_Projects/Another Personal Project",
+    "01_Projects/Another Personal Project/Another Personal Project.md",
+    "Templates/Project.md",
+    "Templates/Project - Issue.md",
+    "Templates/Project - Meeting Note.md",
     "Templates/Resource.md",
-    "02_Areas/My Work Area.md",
-    "02_Areas/My Personal Area.md",
-    "04_Archives/05_MOCs",
-    "05_MOCs",
+    "Templates/Resource - Device.md",
+    "Templates/Resource - Document.md",
+    "01_Projects/My Work Project/My Work Project.md",
+    "04_Archives/01_Projects",
+    "01_Projects/My Work Project/Meeting Notes",
+    "01_Projects/My Work Project/Issues",
+    "01_Projects/My Work Project",
     "05_MOCs/My MOC.md",
-    "04_Archives/03_Resources/Document/Essay",
-    "03_Resources/Document/Essay",
     "03_Resources/Document/Essay/My Essay.md",
     "03_Resources/Document/Poem/My Poem.md",
     "03_Resources/Document/Short Story/My Short Story.md",
@@ -208,15 +187,6 @@
     "03_Resources/Devices/Smart Watch/My Smart Watch.md",
     "03_Resources/Devices/Phone/My Phone.md",
     "03_Resources/Devices/Tablet/My Tablet.md",
-    "03_Resources/Devices/Desktop/My Desktop.md",
-    "03_Resources/Devices/Laptop/My Laptop.md",
-    "03_Resources/Devices/Usb Thumb Drive/My USB Thumb Drive.md",
-    "03_Resources/My General Resource.md",
-    "Templates/Resource - Device.md",
-    "Templates/Resource - Document.md",
-    "Templates/Map of Content.md",
-    "Templates/Project.md",
-    "Templates/Project - Issue.md",
     "Untitled.canvas"
   ]
 }
