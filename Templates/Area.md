@@ -22,3 +22,20 @@ tags:
 let areaFolder = "/02_Areas/" 
 await tp.file.move(areaFolder + noteTitle);
 -%>
+## About
+## Goals
+## Notes
+## Urls
+## Considerations
+## Maintenance Tasks
+## Active Projects
+```dataview
+LIST
+FROM [[]] AND #project
+```
+## Linked Resources
+```dataview
+LIST
+FROM [[]] AND #resource 
+```
+## External Resources

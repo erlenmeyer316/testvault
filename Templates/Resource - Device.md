@@ -12,7 +12,7 @@
   // get device type
   deviceType = await tp.system.suggester(["USB Thumb Drive", "Laptop", "Desktop", "Tablet", "Phone", "Smart Watch", "E-Reader"], ["usb_thumb_drive", "laptop", "desktop", "tablet", "phone", "smart_watch", "e_reader"])
   // determine subtag based on document type
-  subTag = `/${deviceType}`
+  subTag = `/device/${deviceType}`
   // determine subfolder based on document type
   subFolder = tp.user.snake_case_to_title_case(deviceType)
  %>
