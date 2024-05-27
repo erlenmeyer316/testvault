@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "0b3316fe5f2a4ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb81402ee9215f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65747f6473d0aed0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52b59c91ddbddf9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2550c83bad01603f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c99c6028aebc5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e6232a47f07c351",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#resource/essay",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "50f6a9b7d7d17a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "f59ed37695249b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aa13a457d42b4e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b59168cd7c5e23cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58d2db13aed529b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf2aec568205f627",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3796f88f55c251c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "65747f6473d0aed0",
+  "lastOpenFiles": [
+    "03_Resources/Devices/Usb Thumb Drive/Farts.md",
+    "03_Resources/Devices/Usb Thumb Drive/usb_thumb_drive.md",
+    "Templates/Resource - Device.md",
+    "03_Resources/Devices/Usb Thumb Drive",
+    "03_Resources/Devices",
+    "Templates/Resource - Document.md",
+    "Templates/Area.md",
+    "Templates/Map of Content.md",
+    "Templates/Project.md",
+    "Templates/Resource.md",
+    "01_Projects/DickiProject/DickiProject.md",
+    "01_Projects/DickiProject/Meeting Notes",
+    "01_Projects/DickiProject/Issues",
+    "01_Projects/DickiProject",
+    "02_Areas/DickiArea.md",
+    "Proj.md",
+    "My Other Project.md",
+    "Project.md",
+    "proj2.md",
+    "proj1.md",
+    "Templates/Resource - Book.md",
+    "Templates/Resource - Record.md",
+    "02_Areas/My Area.md",
+    "02_Areas/Your Area.md",
+    "01_Projects/My Project/Meeting Notes",
+    "01_Projects/My Project/Issues",
+    "01_Projects/My Project",
+    "01_Projects/My Project/My Project.md",
+    "02_Areas/MyArea.md",
+    "02_Areas/Area.md",
+    "02_Areas/OsuArea.md",
+    "01_Projects/My Project/My Project.md",
+    "01_Projects/MyProject/MyProject.md",
+    "01_Projects/MyProject/Meeting Notes",
+    "01_Projects/MyProject/Issues",
+    "05_MOCs/Farts.md",
+    "Untitled.canvas"
+  ]
+}

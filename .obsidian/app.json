@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "foldIndent": true,
+  "showLineNumber": true,
+  "vimMode": false
+}
