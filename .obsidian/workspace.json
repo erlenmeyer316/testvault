@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Project - Issue.md",
+                "file": "Templates/Project - Meeting Note.md",
                 "mode": "source",
                 "source": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project - Issue.md",
+                "file": "Templates/Project - Meeting Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project - Issue.md",
+                "file": "Templates/Project - Meeting Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Project - Issue.md"
+                "file": "Templates/Project - Meeting Note.md"
               }
             }
           }
@@ -213,10 +213,12 @@
   },
   "active": "3359a071cb51ff4f",
   "lastOpenFiles": [
+    "Templates/Project - Issue.md",
+    "Templates/Project.md",
+    "Templates/Project - Meeting Note.md",
+    "f.md",
     "BLah.md",
     "What2.md",
-    "Templates/Project - Meeting Note.md",
-    "Templates/Project - Issue.md",
     "farts.md",
     "Boob.md",
     "01_Projects/Work Project/Work Project.md",
@@ -225,7 +227,6 @@
     "01_Projects/null/Issues",
     "01_Projects/null",
     "01_Projects/null/Issues/Issue.md",
-    "Templates/Project.md",
     "Templates/Area.md",
     "01_Projects/FartSEx/FartSEx.md",
     "01_Projects/FartSEx/Meeting Notes",
@@ -248,7 +249,6 @@
     "Templates/Resource - Document.md",
     "Templates/Resource - Record.md",
     "01_Projects/My Project/Issues/sdfasss.md",
-    "05_MOCs/My MOC.md",
     "Untitled.canvas"
   ]
 }

@@ -2,5 +2,5 @@
 project: 
 title: 
 tags:
-  - project/meeting_note
+  - meeting_note
 ---

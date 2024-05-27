@@ -7,7 +7,7 @@
 	} 
 
 	const dv = this.app.plugins.plugins["dataview"].api;
-	let projects = dv.pages().where(p =>  p.etags).file.sort(n => n.name);
+	let projects = dv.pages.exact("#project").file.sort(n => n.name);
 	
 	let suggestions = projects.name;
 	let values = projects.link;
@@ -27,7 +27,7 @@ project: <% project %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
-  - issue
+  - project/issue
 ---
 > [!summary] Comments
 >  <% summary %>
