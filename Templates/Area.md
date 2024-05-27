@@ -21,7 +21,9 @@ tags:
 <%*
 let areaFolder = "/02_Areas/" 
 await tp.file.move(areaFolder + noteTitle);
+await this.app.vault.createFolder("/04_Archives")
 -%>
+
 ## About
 ## Goals
 ## Notes
