@@ -61,26 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Resources/Document/Poem/My Poem.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea3acc47dd500130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Project - Issue.md",
-                "mode": "source",
+                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#resource/essay",
+                "query": "Farts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project - Issue.md",
+                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project - Issue.md",
+                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Project - Issue.md"
+                "file": "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md"
               }
             }
           }
@@ -212,25 +200,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "ea3acc47dd500130",
+  "active": "76027ef57a661cbf",
   "lastOpenFiles": [
+    "Templates/Project - Issue.md",
+    "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues",
+    "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]",
+    "01_Projects/[[01_Projects/My Project",
+    "01_Projects/[[01_Projects",
+    "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues/AAA.md",
+    "03_Resources/Document/Poem/My Poem.md",
+    "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]/Issues/Farts.md",
+    "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]/Issues",
+    "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]",
+    "01_Resources/[[01_Projects/My Project",
+    "01_Resources/[[01_Projects",
+    "01_Resources",
+    "dv.pages.md",
+    "My Project Issue.md",
     "01_Projects/My Project/My Project.md",
     "Templates/Project.md",
-    "Templates/Project - Issue.md",
     "Templates/Project - Meeting Note.md",
-    "My Project Issue.md",
     "Templates/Resource.md",
     "Templates/Resource - Document.md",
     "Templates/Area.md",
     "Templates/Map of Content.md",
     "Templates/Resource - Device.md",
     "Untitled",
-    "03_Resources/Document/Poem/My Poem.md",
     "01_Projects/My Project/Untitled.md",
     "05_MOCs/My MOC.md",
-    "01_Projects/My Project/Meeting Notes",
-    "01_Projects/My Project/Issues",
-    "01_Projects/My Project",
     "03_Resources/My Resource.md",
     "03_Resources/Document/Short Story/My Short Story.md",
     "02_Areas/My Work Area.md",
@@ -238,18 +235,8 @@
     "02_Areas/My Personal Area.md",
     "02_Areas/My Area.md",
     "03_Resources/Devices/Usb Thumb Drive/My USB Thumb Drive Device1.md",
-    "03_Resources/Document/Short Story",
-    "03_Resources/Document/Poem",
-    "03_Resources/Document",
     "My USB Memory Stick Device.md",
-    "03_Resources/Devices/Usb Thumb Drive",
-    "03_Resources/Devices",
-    "Scripts/snake_case_to_title_case.js",
     "My USB Thumb Drive Device.md",
-    "03_Resources/Devices/Usb Thumb Drive/Farts.md",
-    "03_Resources/Devices/Usb Thumb Drive/usb_thumb_drive.md",
-    "01_Projects/DickiProject/DickiProject.md",
-    "02_Areas/DickiArea.md",
     "Untitled.canvas"
   ]
 }

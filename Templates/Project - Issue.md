@@ -13,7 +13,7 @@
 	let values = projects.link;
 	let project = await tp.system.suggester(suggestions,values);
 
-
+	console.log(project)
 	let priority = await tp.system.suggester(["Lowest", "Low", "Normal", "Medium", "High", "Highest"], ["lowest", "low", "normal", "medium", "high", "highest"])
 	
 	let summary = await tp.system.prompt("Summary");
@@ -41,6 +41,6 @@ tags:
 > [!linked] Linked Issues
 
 <%*
-let projectIssue = `/01_Resources/${project}/Issues/` 
-await tp.file.move(resourceHolder + noteTitle);
+let projectIssue = `/01_Projects/${project}/Issues/` 
+await tp.file.move(projectIssue + noteTitle);
 -%>
