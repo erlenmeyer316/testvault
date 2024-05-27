@@ -7,7 +7,7 @@
 	} 
 
 	const dv = this.app.plugins.plugins["dataview"].api;
-	let projects = dv.pages(`tag:project -#project/`).file.sort(n => n.name);
+	let projects = dv.pages("`tag:project -#project/`").file.sort(n => n.name);
 	
 	let suggestions = projects.name;
 	let values = projects.link;
