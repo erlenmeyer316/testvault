@@ -22,7 +22,20 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-none-of",
+                "enabled": true,
+                "value": "[\"issue\",\"meeting_note\"]"
+              },
+              {
+                "field": "tags",
+                "operator": "has-all-of",
+                "enabled": true,
+                "value": "[\"project\"]"
+              }
+            ]
           },
           "colors": {
             "conditions": []
@@ -38,7 +51,14 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"project/meeting_note\"]"
+              }
+            ]
           },
           "colors": {
             "conditions": []
@@ -54,7 +74,14 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"project/issue\"]"
+              }
+            ]
           },
           "colors": {
             "conditions": []
