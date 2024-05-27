@@ -7,9 +7,7 @@
       "templates": [
         ""
       ],
-      "excludedNotes": [
-        "01_Projects/My Project/My Project.md"
-      ],
+      "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
         "kind": "folder",
@@ -24,7 +22,14 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-all-of",
+                "enabled": true,
+                "value": "[\"project\"]"
+              }
+            ]
           },
           "colors": {
             "conditions": []

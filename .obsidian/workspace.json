@@ -23,12 +23,60 @@
             "id": "79e495c203bd61ce",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/My Project/My Project.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6ca7dcd11d4ab3c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/My Project/My Project.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a31e6a409e55b468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/My Project/My Project.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "76027ef57a661cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Resources/Document/Poem/My Poem.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ea3acc47dd500130",
+            "type": "leaf",
+            "state": {
               "type": "obsidian-projects",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,20 +204,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "79e495c203bd61ce",
+  "active": "52c99c6028aebc5f",
   "lastOpenFiles": [
+    "Untitled",
+    "03_Resources/Document/Poem/My Poem.md",
+    "01_Projects/My Project/My Project.md",
+    "01_Projects/My Project/Untitled.md",
     "05_MOCs/My MOC.md",
     "01_Projects/My Project/Meeting Notes",
     "01_Projects/My Project/Issues",
     "01_Projects/My Project",
-    "01_Projects/My Project/My Project.md",
     "03_Resources/My Resource.md",
     "03_Resources/Document/Short Story/My Short Story.md",
     "02_Areas/My Work Area.md",
     "02_Areas/My Professional Area.md",
     "02_Areas/My Personal Area.md",
     "02_Areas/My Area.md",
-    "03_Resources/Document/Poem/My Poem.md",
     "03_Resources/Devices/Usb Thumb Drive/My USB Thumb Drive Device1.md",
     "03_Resources/Document/Short Story",
     "03_Resources/Document/Poem",
@@ -192,7 +242,6 @@
     "02_Areas/DickiArea.md",
     "Proj.md",
     "My Other Project.md",
-    "Project.md",
     "Untitled.canvas"
   ]
 }
