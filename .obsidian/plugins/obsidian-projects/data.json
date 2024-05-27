@@ -121,6 +121,29 @@
           "id": "5de6388f-55cb-442f-b58c-95e836289492",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-all-of",
+                "enabled": true,
+                "value": "[\"project/issue\"]"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3f83beb8-4f89-4043-94e8-9ef8313b4e5d",
+          "name": "Board",
+          "type": "board"
         }
       ],
       "id": "a07dcc62-a00f-473d-a25c-b809423b1fd9",

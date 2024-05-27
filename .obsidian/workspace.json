@@ -71,8 +71,12 @@
             "id": "3359a071cb51ff4f",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/Work Project/Work Project.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -134,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Projects/Work Project/Work Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Projects/Work Project/Work Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "01_Projects/Work Project/Work Project.md"
+              }
             }
           }
         ],
@@ -204,15 +212,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "52c99c6028aebc5f",
+  "active": "3359a071cb51ff4f",
   "lastOpenFiles": [
+    "01_Projects/My Project/My Project.md",
+    "01_Projects/My Project/Issues/sdfasss.md",
     "01_Projects/Work Project/Issues/What.md",
     "01_Projects/Work Project/Meeting Notes",
     "01_Projects/Work Project/Issues",
     "01_Projects/Work Project",
     "01_Projects/Work Project/Work Project.md",
     "Untitled",
-    "01_Projects/My Project/Issues/sdfasss.md",
     "Templates/Project - Issue.md",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]/Issues",
     "01_Projects/[[01_Projects/My Project/My Project.md|My Project]]",
@@ -226,7 +235,6 @@
     "01_Resources/[[01_Projects/My Project/My Project.md|My Project]]",
     "dv.pages.md",
     "My Project Issue.md",
-    "01_Projects/My Project/My Project.md",
     "Templates/Project.md",
     "Templates/Project - Meeting Note.md",
     "Templates/Resource.md",
