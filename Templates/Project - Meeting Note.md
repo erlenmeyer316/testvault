@@ -2,10 +2,10 @@
 project: 
 title: 
 tags:
-  - project/meeting_note
+  - project/meeting
 ---
 # Attendees
-- Stephen Millard
+- Adam Dickison
 - ???
 
 # Meeting Details

@@ -21,7 +21,7 @@ tags:
 <%*
 let projectFolder = `/01_Projects/${noteTitle}/` 
 let issuesFolder = "Issues"
-let mtgNotesFolders = "Meeting Notes"
+let mtgNotesFolders = "Meetings"
 await tp.file.move(projectFolder + noteTitle);
 await this.app.vault.createFolder(projectFolder + issuesFolder)
 await this.app.vault.createFolder(projectFolder + mtgNotesFolders)
