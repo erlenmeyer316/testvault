@@ -12,7 +12,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "01_Projects/My Project",
+          "path": "01_Projects/My Personal Project",
           "recursive": true
         }
       },
@@ -54,14 +54,7 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": [
-              {
-                "field": "path",
-                "operator": "contains",
-                "enabled": true,
-                "value": "Issues"
-              }
-            ]
+            "conditions": []
           },
           "colors": {
             "conditions": []
@@ -96,14 +89,7 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": [
-              {
-                "field": "tags",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"project\"]"
-              }
-            ]
+            "conditions": []
           },
           "colors": {
             "conditions": []

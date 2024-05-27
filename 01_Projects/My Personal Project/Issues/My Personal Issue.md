@@ -1,18 +1,18 @@
 ---
 
-title: Issue 
+title: My Personal Issue 
 labels: 
 due_date: 
-priority: null
+priority: normal
 status: backlog
-project: "[[ [[01_Projects/My Work Project/My Work Project.md|My Work Project]]]]"
-created: May 27th 2024, 3:52:27 pm
+project: "[[ My Personal Project]]"
+created: May 27th 2024, 3:54:26 pm
 modified: 
 tags:
   - project/issue
 ---
 > [!summary] Comments
->  null
+>  What?
 
 > [!blocking] Blocking
 > 

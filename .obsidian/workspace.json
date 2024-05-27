@@ -23,28 +23,20 @@
             "id": "79e495c203bd61ce",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ca7dcd11d4ab3c6",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "76027ef57a661cbf",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Project - Issue.md",
+                "file": "01_Projects/My Personal Project/My Personal Project.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "54f771ed251be37e",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
@@ -53,14 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Project - Issue.md",
+                "file": "01_Projects/My Personal Project/Issues/My Personal Issue.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project - Issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project - Issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Templates/Project - Issue.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -179,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,44 +180,44 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "52c99c6028aebc5f",
+  "active": "54f771ed251be37e",
   "lastOpenFiles": [
+    "01_Projects/My Personal Project/My Personal Project.md",
+    "Templates/Project - Issue.md",
+    "01_Projects/My Personal Project/Issues/My Personal Issue.md",
+    "Templates/Project - Meeting Note.md",
+    "Boob.md",
+    "BLah.md",
+    "01_Projects/[[01_Projects/My Personal Project/My Personal Project.md|My Personal Project]]/Issues",
+    "01_Projects/[[01_Projects/My Personal Project/My Personal Project.md|My Personal Project]]",
+    "01_Projects/[[01_Projects/My Personal Project",
+    "01_Projects/[[01_Projects",
+    "01_Projects/[[01_Projects/My Personal Project/My Personal Project.md|My Personal Project]]/Issues/My Personal Issue.md",
+    "01_Projects/[[01_Projects/My Work Project/My Work Project.md|My Work Project]]/Issues/Issue.md",
     "01_Projects/[[01_Projects/My Work Project/My Work Project.md|My Work Project]]/Issues",
     "01_Projects/[[01_Projects/My Work Project/My Work Project.md|My Work Project]]",
     "01_Projects/[[01_Projects/My Work Project",
-    "01_Projects/[[01_Projects",
-    "01_Projects/[[01_Projects/My Work Project/My Work Project.md|My Work Project]]/Issues/Issue.md",
     "Templates/Project.md",
     "02_Areas/My Personal Area.md",
     "02_Areas/My Work Area.md",
     "My Personal Area.md",
-    "01_Projects/My Personal Project/My Personal Project.md",
     "My Personal Project.md",
     "01_Projects/My Personal Project/Issues/My Issue1.md",
-    "Templates/Project - Issue.md",
     "01_Projects/null/Issues",
     "01_Projects/null",
     "01_Projects/null/Issues/My Issue1.md",
     "My Issue.md",
     "01_Projects/My Work Project/Meeting Notes",
-    "01_Projects/My Work Project/Issues",
-    "01_Projects/My Work Project",
     "01_Projects/My Work Project/My Work Project.md",
-    "01_Projects/My Personal Project/Meeting Notes",
-    "01_Projects/My Personal Project/Issues",
     "My Project.md",
     "01_Projects/My Project/Issues/sdfasss.md",
     "01_Projects/Project - Meeting Note/Issues/AAAA.md",
-    "Templates/Project - Meeting Note.md",
     "f.md",
-    "BLah.md",
     "What2.md",
     "farts.md",
-    "Boob.md",
     "01_Projects/Work Project/Work Project.md",
     "01_Projects/Work Project/Issues/What.md",
     "01_Projects/null/Issues/Issue.md",
-    "Templates/Area.md",
     "Untitled.canvas"
   ]
 }
