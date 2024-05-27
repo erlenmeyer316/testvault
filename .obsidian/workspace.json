@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Resource.md",
+                "file": "Templates/Project.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Resource.md",
+                "file": "Templates/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Resource.md",
+                "file": "Templates/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Resource.md"
+                "file": "Templates/Project.md"
               }
             }
           }
@@ -182,42 +182,41 @@
   },
   "active": "3359a071cb51ff4f",
   "lastOpenFiles": [
-    "Templates/Resource - Device.md",
-    "Templates/Resource - Document.md",
-    "Templates/Resource.md",
-    "Templates/Map of Content.md",
     "Templates/Area.md",
-    "Templates/Project.md",
-    "Templates/Project - Issue.md",
-    "Templates/Project - Meeting Note.md",
-    "Templates/Resource - Record.md",
-    "Templates/Resource - Book.md",
-    "04_Archives",
-    "03_Resources/Farts.md",
+    "01_Projects/My Personal Project/Meeting Notes",
+    "01_Projects/My Personal Project/Issues",
+    "01_Projects/My Personal Project",
+    "01_Projects",
     "01_Projects/My Personal Project/My Personal Project.md",
-    "01_Projects/My Personal Project/Issues/My Personal Issue.md",
-    "03_Resources/My Resource.md",
-    "02_Areas/Farts.md",
+    "02_Areas/My Personal Area.md",
+    "04_Archives/02_Areas",
+    "02_Areas",
+    "02_Areas/My Work Area.md",
+    "Templates/Resource.md",
     "02_Areas/My Work Area.md",
     "02_Areas/My Personal Area.md",
-    "Boob.md",
-    "BLah.md",
-    "01_Projects/[[01_Projects/My Personal Project/My Personal Project.md|My Personal Project]]/Issues",
-    "01_Projects/[[01_Projects/My Personal Project/My Personal Project.md|My Personal Project]]",
-    "01_Projects/[[01_Projects/My Personal Project",
-    "01_Projects/[[01_Projects",
-    "01_Projects/[[01_Projects/My Personal Project/My Personal Project.md|My Personal Project]]/Issues/My Personal Issue.md",
-    "01_Projects/[[01_Projects/My Work Project/My Work Project.md|My Work Project]]/Issues/Issue.md",
-    "01_Projects/[[01_Projects/My Work Project/My Work Project.md|My Work Project]]/Issues",
-    "01_Projects/[[01_Projects/My Work Project/My Work Project.md|My Work Project]]",
-    "01_Projects/[[01_Projects/My Work Project",
-    "My Personal Area.md",
-    "My Personal Project.md",
-    "01_Projects/My Personal Project/Issues/My Issue1.md",
-    "01_Projects/null/Issues",
-    "01_Projects/null",
-    "01_Projects/null/Issues/My Issue1.md",
-    "My Issue.md",
+    "04_Archives/05_MOCs",
+    "05_MOCs",
+    "05_MOCs/My MOC.md",
+    "04_Archives/03_Resources/Document/Essay",
+    "03_Resources/Document/Essay",
+    "03_Resources/Document/Essay/My Essay.md",
+    "03_Resources/Document/Poem/My Poem.md",
+    "03_Resources/Document/Short Story/My Short Story.md",
+    "03_Resources/Document/My General Document.md",
+    "03_Resources/Devices/E Reader/My E-Reader.md",
+    "03_Resources/Devices/Smart Watch/My Smart Watch.md",
+    "03_Resources/Devices/Phone/My Phone.md",
+    "03_Resources/Devices/Tablet/My Tablet.md",
+    "03_Resources/Devices/Desktop/My Desktop.md",
+    "03_Resources/Devices/Laptop/My Laptop.md",
+    "03_Resources/Devices/Usb Thumb Drive/My USB Thumb Drive.md",
+    "03_Resources/My General Resource.md",
+    "Templates/Resource - Device.md",
+    "Templates/Resource - Document.md",
+    "Templates/Map of Content.md",
+    "Templates/Project.md",
+    "Templates/Project - Issue.md",
     "Untitled.canvas"
   ]
 }

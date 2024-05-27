@@ -25,5 +25,6 @@ let mtgNotesFolders = "Meeting Notes"
 await tp.file.move(projectFolder + noteTitle);
 await this.app.vault.createFolder(projectFolder + issuesFolder)
 await this.app.vault.createFolder(projectFolder + mtgNotesFolders)
-await this.app.vault.createFolder("/04_Archives")
+let archiveHolder = `04_Archives/01_Projects/`
+await this.app.vault.createFolder(archiveHolder)
 -%>
