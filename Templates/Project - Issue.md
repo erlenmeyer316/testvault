@@ -7,13 +7,13 @@
 	} 
 
 	const dv = this.app.plugins.plugins["dataview"].api;
-	let projects = dv.pages().where(p =>  p.etags).file.sort(n => n.name);
+	
+	let project = dv.pages("#project and -#project/issue").file.sort(n => n.name);
 	
 	let suggestions = projects.name;
 	let values = projects.link;
 	let project = await tp.system.suggester(suggestions,suggestions);
 
-	console.log(project)
 	let priority = await tp.system.suggester(["Lowest", "Low", "Normal", "Medium", "High", "Highest"], ["lowest", "low", "normal", "medium", "high", "highest"])
 	
 	let summary = await tp.system.prompt("Summary");
@@ -23,11 +23,11 @@ labels:
 due_date: 
 priority: <% priority %>
 status: backlog
-project: <% project %>
+project: "[[ <% project %>]]"
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
-  - issue
+  - project/issue
 ---
 > [!summary] Comments
 >  <% summary %>

@@ -23,36 +23,16 @@
             "id": "79e495c203bd61ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Projects/My Project/My Project.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
             "id": "6ca7dcd11d4ab3c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Projects/My Project/My Project.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a31e6a409e55b468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Projects/My Project/My Project.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
@@ -61,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/My Project/Issues/sdfasss.md",
+                "file": "Templates/Project - Issue.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,14 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Project - Meeting Note.md",
+                "file": "Templates/Project - Issue.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project - Meeting Note.md",
+                "file": "Templates/Project - Issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project - Meeting Note.md",
+                "file": "Templates/Project - Issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Project - Meeting Note.md"
+                "file": "Templates/Project - Issue.md"
               }
             }
           }
@@ -213,8 +193,13 @@
   },
   "active": "3359a071cb51ff4f",
   "lastOpenFiles": [
-    "Templates/Project - Issue.md",
+    "My Project.md",
     "Templates/Project.md",
+    "Templates/Project - Issue.md",
+    "01_Projects/My Project/Issues/sdfasss.md",
+    "01_Projects/Project - Meeting Note/Issues",
+    "01_Projects/Project - Meeting Note",
+    "01_Projects/Project - Meeting Note/Issues/AAAA.md",
     "Templates/Project - Meeting Note.md",
     "f.md",
     "BLah.md",
@@ -237,8 +222,6 @@
     "01_Projects/POOPS/Issues",
     "01_Projects/POOPS",
     "01_Projects/Poop/Poop.md",
-    "01_Projects/Poop/Meeting Notes",
-    "01_Projects/Poop/Issues",
     "01_Projects/Farts/Farts.md",
     "01_Projects/TEst Project/TEst Project.md",
     "02_Areas/Test Area.md",
@@ -246,9 +229,6 @@
     "Templates/Resource.md",
     "Templates/Resource - Book.md",
     "Templates/Resource - Device.md",
-    "Templates/Resource - Document.md",
-    "Templates/Resource - Record.md",
-    "01_Projects/My Project/Issues/sdfasss.md",
     "Untitled.canvas"
   ]
 }

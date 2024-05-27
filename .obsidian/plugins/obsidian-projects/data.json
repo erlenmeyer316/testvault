@@ -22,14 +22,7 @@
           "config": {},
           "filter": {
             "conjunction": "and",
-            "conditions": [
-              {
-                "field": "tags",
-                "operator": "has-all-of",
-                "enabled": true,
-                "value": "[\"project\"]"
-              }
-            ]
+            "conditions": []
           },
           "colors": {
             "conditions": []
