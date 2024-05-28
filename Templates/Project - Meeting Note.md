@@ -1,7 +1,6 @@
 ---
 <%*
 	let noteTitle = tp.file.title
-	let currentDate = tp.date.now("MM-DD-YYYY")
 	if (noteTitle.startsWith("Untitled")) {
 		noteTitle = await tp.system.prompt("Title");
 		await tp.file.rename(noteTitle);
@@ -17,9 +16,9 @@
 	let location = await tp.system.suggester(["Virtual", "In Person"], ["Virtual", "In Person"])
 %>
 title: <% noteTitle %> 
-project: "[[ <% project %>]]"
+project: "[[<% project %>]]"
 location: <% location %>
-meeting_date: <% currentDate.format("MMM Do, YYYY") %>
+meeting_date: <% tp.date.now('LL') %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
@@ -31,7 +30,7 @@ tags:
 
 # Meeting Details
 - **Location:** <% location %>
-- **Date:** <% currentDate.format("MMM Do, YYYY") %>
+- **Date:** <% tp.date.now('LL') %>
 - **Time/Duration:** xx:xx - xx:xx
 
 # Agenda

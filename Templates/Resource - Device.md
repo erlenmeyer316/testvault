@@ -18,6 +18,7 @@
  %>
 title: <% noteTitle %>
 area:
+
 device_type: <% deviceType %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 

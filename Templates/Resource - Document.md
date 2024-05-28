@@ -23,6 +23,7 @@
 %>
 title: <% noteTitle %>
 area:
+
 doc_title: <% docTitle %>
 doc_author: <% docAuthor %>
 doc_type: <% docType %>

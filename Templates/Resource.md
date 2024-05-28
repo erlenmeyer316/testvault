@@ -9,6 +9,7 @@
 %>
 title: <% noteTitle %>
 area:
+
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:

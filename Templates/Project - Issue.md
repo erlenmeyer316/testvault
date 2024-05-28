@@ -22,7 +22,7 @@ labels:
 due_date: 
 priority: <% priority %>
 status: backlog
-project: "[[ <% project %>]]"
+project: "[[<% project %>]]"
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
