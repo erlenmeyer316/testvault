@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Resource.md",
+                "file": "Templates/Resource - Document.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Resource.md"
+                "file": "Templates/Resource - Document.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Resource.md",
+                "file": "Templates/Resource - Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Resource.md",
+                "file": "Templates/Resource - Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,25 +157,30 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
-    "03_Resources/General Resource 3.md",
+    "Templates/Resource - Device.md",
+    "Templates/Resource.md",
+    "Templates/Project - Meeting Note.md",
+    "Templates/Project - Issue.md",
+    "Templates/Project.md",
+    "Templates/Map of Content.md",
+    "Templates/Daily Note.md",
+    "Templates/Area.md",
+    "03_Resources/Asses.md",
     "04_Archives/03_Resources",
     "04_Archives",
+    "03_Resources/Butts.md",
+    "03_Resources/Farts.md",
+    "03_Resources/AAAA.md",
+    "03_Resources/Genearl Note 3.md",
+    "03_Resources/General Resource 3.md",
     "03_Resources/General Resource 2.md",
     "03_Resources",
     "03_Resources/General Resource.md",
-    "Templates/Daily Note.md",
     "03_Resources/General Resource.md",
-    "Templates/Area.md",
-    "Templates/Map of Content.md",
-    "Templates/Project.md",
-    "Templates/Resource - Device.md",
-    "Templates/Project - Meeting Note.md",
-    "Templates/Resource.md",
     "06_DailyNotes",
     "01_Projects/My Personal Project/Meetings/AAAA.md",
     "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
     "Templates/Resource - Document.md",
-    "Templates/Project - Issue.md",
     "01_Projects/My Personal Project/Meetings/AAA.md",
     "01_Projects/Another Personal Project/Another Personal Project.md",
     "01_Projects/My Work Project/Meetings/My Work Note.md",
@@ -184,14 +189,9 @@
     "01_Projects/My Personal Project/Meetings",
     "My Meeting Note1.md",
     "01_Projects/Another Personal Project/Issues/Personal Issue.md",
-    "05_MOCs/My MOC.md",
-    "02_Areas/My Work Area.md",
-    "02_Areas/My Personal Area.md",
-    "01_Projects/My Personal Project/Issues/Another Personal Issue.md",
     "01_Projects/My Personal Project/Meeting Notes",
     "01_Projects/My Personal Project/Issues",
     "01_Projects/My Personal Project",
-    "01_Projects/My Personal Project/My Personal Project.md",
     "01_Projects/Another Personal Project/Meeting Notes",
     "Untitled.canvas"
   ]

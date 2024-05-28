@@ -29,8 +29,4 @@ tags:
 // move note to subfolder
 let resourceHolder = `/03_Resources/Devices/${subFolder}/`
 await tp.file.move(resourceHolder + noteTitle);
-let archiveHolder = `04_Archives/${resourceHolder}/`
-if (! tp.file.exists(archiveHolder)) {
-	await this.app.vault.createFolder(archiveHolder)
-}
 -%>

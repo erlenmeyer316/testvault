@@ -18,7 +18,4 @@ tags:
 <%*
 let resourceHolder = "/03_Resources/" 
 await tp.file.move(resourceHolder + noteTitle);
-let archiveHolder = `04_Archives/${resourceHolder}/`
-await this.app.vault.createFolder(archiveHolder)
-
 -%>
