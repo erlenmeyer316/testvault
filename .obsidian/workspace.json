@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
+                "file": "Templates/Project - Meeting Note.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
+                "file": "Templates/Project - Meeting Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
+                "file": "Templates/Project - Meeting Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/My Meeting Note.md"
+                "file": "Templates/Project - Meeting Note.md"
               }
             }
           }
@@ -153,9 +153,8 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
+    "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
     "Templates/Project - Meeting Note.md",
-    "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
-    "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
     "01_Projects/My Personal Project/Meetings",
     "Templates/Project.md",
     "Templates/Project - Issue.md",

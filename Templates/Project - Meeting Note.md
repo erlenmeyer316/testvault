@@ -19,7 +19,7 @@
 title: <% noteTitle %> 
 project: "[[ <% project %>]]"
 location: <% location %>
-date: <% date %>
+meeting_date: <% date.format.format("MMM Do YY") %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
