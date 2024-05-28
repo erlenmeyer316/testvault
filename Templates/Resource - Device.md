@@ -33,3 +33,6 @@ await tp.file.move(resourceHolder + noteTitle);
 
 > [!abstract] Device Info
 > Name: <% noteTitle %>
+
+> [!example] Image
+> ![[image-placeholder.jpeg | 200px]]
