@@ -31,5 +31,13 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-minimal-settings:toggle-minimal-switch": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
   ]
 }
