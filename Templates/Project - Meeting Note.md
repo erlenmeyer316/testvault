@@ -1,14 +1,14 @@
 ---
 <%*
 	let noteTitle = tp.file.title
-	let date = tp.date.now("MM-DD-YYYY")
+	let currentDate = tp.date.now("MM-DD-YYYY")
 	if (noteTitle.startsWith("Untitled")) {
 		noteTitle = await tp.system.prompt("Title");
-		await tp.file.rename(date + " - " + noteTitle);
+		await tp.file.rename(noteTitle);
 	} 
 
 	const dv = this.app.plugins.plugins["dataview"].api;	
-	let projects = dv.pages("#project and -#project/issue and -#project/meeting_note").file.sort(n => n.name);
+	let projects = dv.pages("#project and -#project/issue and -#project/meeting").file.sort(n => n.name);
 	
 	let suggestions = projects.name;
 	let values = projects.link;
@@ -19,7 +19,7 @@
 title: <% noteTitle %> 
 project: "[[ <% project %>]]"
 location: <% location %>
-meeting_date: <% date.format("MMM Do, YYYY") %>
+meeting_date: <% currentDate.format("MMM Do, YYYY") %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
@@ -31,7 +31,7 @@ tags:
 
 # Meeting Details
 - **Location:** <% location %>
-- **Date:** <% date.format("MMM Do, YYYY") %>
+- **Date:** <% currentDate.format("MMM Do, YYYY") %>
 - **Time/Duration:** xx:xx - xx:xx
 
 # Agenda
