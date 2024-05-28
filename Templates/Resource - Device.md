@@ -30,3 +30,6 @@ tags:
 let resourceHolder = `/03_Resources/Devices/${subFolder}/`
 await tp.file.move(resourceHolder + noteTitle);
 -%>
+
+> [!abstract] Device Info
+> Name: <% noteTitle %>

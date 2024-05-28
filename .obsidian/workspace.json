@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "Templates/Resource - Device.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Resource - Document.md"
+                "file": "Templates/Resource - Device.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "Templates/Resource - Device.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "Templates/Resource - Device.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +157,9 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
-    "Templates/Resource - Device.md",
     "Templates/Resource.md",
+    "Templates/Resource - Device.md",
+    "Templates/Resource - Document.md",
     "Templates/Project - Meeting Note.md",
     "Templates/Project - Issue.md",
     "Templates/Project.md",
@@ -180,7 +181,6 @@
     "06_DailyNotes",
     "01_Projects/My Personal Project/Meetings/AAAA.md",
     "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
-    "Templates/Resource - Document.md",
     "01_Projects/My Personal Project/Meetings/AAA.md",
     "01_Projects/Another Personal Project/Another Personal Project.md",
     "01_Projects/My Work Project/Meetings/My Work Note.md",
