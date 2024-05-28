@@ -57,6 +57,34 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "9c159c48-84bd-4e9b-862a-e5ca0c2e3cdc",
+      "name": "📈 Project - Meeting Note",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Project - Meeting Note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "5386660a-3727-488c-b06b-c61f59c997f9",
       "name": "🏠 Area",
       "type": "Template",

@@ -1,9 +1,9 @@
 ---
 <%*
 	let noteTitle = tp.file.title
+	let date = tp.date.now("MM-DD-YYYY")
 	if (noteTitle.startsWith("Untitled")) {
 		noteTitle = await tp.system.prompt("Title");
-		let date = tp.date.now("YYYY-MM-DD")
 		await tp.file.rename(date + " - " + noteTitle);
 	} 
 
@@ -52,3 +52,7 @@ SORT BY created
 ```
 **Tags:** 
 ```
+<%*
+let projectIssue = `/01_Projects/${project}/Meeting Notes/` 
+await tp.file.move(projectIssue + noteTitle);
+-%>

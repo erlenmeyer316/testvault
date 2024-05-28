@@ -153,12 +153,14 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
+    "Templates/Project.md",
+    "Templates/Project - Meeting Note.md",
+    "Templates/Project - Issue.md",
     "Templates/Resource.md",
+    "My Meeting Note.md",
+    "My Meeting Note1.md",
     "Templates/Resource - Device.md",
     "Templates/Resource - Document.md",
-    "Templates/Project - Meeting Note.md",
-    "Templates/Project.md",
-    "Templates/Project - Issue.md",
     "01_Projects/Another Personal Project/Issues/Personal Issue.md",
     "05_MOCs/My MOC.md",
     "Templates/Untitled.md",
@@ -187,7 +189,6 @@
     "03_Resources/Devices/E Reader/My E-Reader.md",
     "03_Resources/Devices/Smart Watch/My Smart Watch.md",
     "03_Resources/Devices/Phone/My Phone.md",
-    "03_Resources/Devices/Tablet/My Tablet.md",
     "Untitled.canvas"
   ]
 }
