@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Templates/Area.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,6 +31,7 @@
       {
         "id": "2550c83bad01603f",
         "type": "tabs",
+        "dimension": 61.79624664879356,
         "children": [
           {
             "id": "52c99c6028aebc5f",
@@ -58,6 +59,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "fc5682ffe15f6af8",
+        "type": "tabs",
+        "dimension": 38.20375335120643,
+        "children": [
+          {
+            "id": "3d5249f8c7bb74d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff0acc619b10f1fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +95,7 @@
       {
         "id": "f59ed37695249b49",
         "type": "tabs",
-        "dimension": 47.98927613941019,
+        "dimension": 40.3485254691689,
         "children": [
           {
             "id": "22d7c581919ad799",
@@ -85,15 +110,36 @@
       {
         "id": "b4e9c5d7eafc631e",
         "type": "tabs",
-        "dimension": 52.01072386058981,
+        "dimension": 59.651474530831095,
         "children": [
+          {
+            "id": "3796f88f55c251c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Templates/Area.md"
+              }
+            }
+          },
+          {
+            "id": "58d2db13aed529b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "7aa13a457d42b4e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Templates/Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,42 +156,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Templates/Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "58d2db13aed529b7",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "cf2aec568205f627",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "3796f88f55c251c1",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Templates/Daily Note.md"
               }
             }
           }
@@ -165,17 +178,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3a680a264d282919",
+  "active": "52c99c6028aebc5f",
   "lastOpenFiles": [
-    "Templates/Map of Content.md",
     "Templates/Daily Note.md",
+    "Templates/Map of Content.md",
+    "Templates/Project.md",
     "Templates/Resource - Device.md",
     "Templates/Project - Meeting Note.md",
     "Templates/Resource.md",
     "06_DailyNotes",
     "01_Projects/My Personal Project/Meetings/AAAA.md",
     "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
-    "Templates/Project.md",
     "Templates/Resource - Document.md",
     "Templates/Project - Issue.md",
     "Templates/Area.md",
