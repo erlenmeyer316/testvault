@@ -43,8 +43,10 @@ tags:
 - 
 
 # Recent Meetings
-```dataviewjs
-dv.view("/00-09 Meta/00 System Data/00.08 Data View/dv_MeetingListing");
+```dataview
+LIST
+FROM '01_Projects/<% project %>/Meeting Notes'
+SORT BY created
 ```
 ---
 ```
