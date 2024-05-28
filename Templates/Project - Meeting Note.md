@@ -3,7 +3,8 @@
 	let noteTitle = tp.file.title
 	if (noteTitle.startsWith("Untitled")) {
 		noteTitle = await tp.system.prompt("Title");
-		await tp.file.rename(noteTitle);
+		let date = tp.date.now("YYYY-MM-DD")
+		await tp.file.rename(date + " - " + noteTitle);
 	} 
 
 	const dv = this.app.plugins.plugins["dataview"].api;	
@@ -11,15 +12,13 @@
 	
 	let suggestions = projects.name;
 	let values = projects.link;
-	let project = await tp.system.suggester(suggestions,suggestions);
+	let project = await tp.system.suggester(suggestions,suggestions);	
 
-	let priority = await tp.system.suggester(["Lowest", "Low", "Normal", "Medium", "High", "Highest"], ["lowest", "low", "normal", "medium", "high", "highest"])
-	
-	let summary = await tp.system.prompt("Summary");
+	let location = await tp.system.suggester(["Virtual", "In Person"], ["Virtual", "In Person"])
 %>
 title:  
-project: "[[ Another Personal Project]]"
-created: May 27th 2024, 6:12:14 pm
+project: "[[ <% project %>]]"
+created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
   - project/meeting
@@ -29,9 +28,9 @@ tags:
 - ???
 
 # Meeting Details
-- **Topic:** <% tp.file.title %>  
-- **Location:** <% tp.system.suggester(["Virtual", "In Person"], ["Virtual", "In Person"]) %>
-- **Date:** <% tp.file.title.split(" ")[0] %>
+- **Topic:** <% noteTitle %>  
+- **Location:** <% location %>
+- **Date:** <% date %>
 - **Time/Duration:** xx:xx - xx:xx
 
 # Agenda
