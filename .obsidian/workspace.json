@@ -132,6 +132,14 @@
                 "file": "Templates/Daily Note.md"
               }
             }
+          },
+          {
+            "id": "22d7c581919ad799",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
