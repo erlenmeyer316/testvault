@@ -1,9 +1,8 @@
 ---
-
-title: My Meeting Note 
+title: My Meeting Note
 project: "[[ My Personal Project]]"
 location: In Person
-date: 05-27-2024
+date: 05-25-2024
 created: May 27th 2024, 8:24:02 pm
 modified: 
 tags:
@@ -29,9 +28,14 @@ tags:
 
 # Recent Meetings
 ```dataview
-TABLE 
-location
+TABLE WITHOUT ID
+date as "Meeting Date",
+date("today") 
+location as "Location",
+file.link as "Note"
 FROM "01_Projects/My Personal Project/Meetings"
+WHERE date > date("today")
+SORT date DESC
 ```
 ---
 ```
