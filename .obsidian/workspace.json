@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/AAAA.md",
-                "mode": "preview",
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/AAAA.md",
+                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/AAAA.md",
+                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Projects/My Personal Project/Meetings/AAAA.md"
+                "file": "Templates/Daily Note.md"
               }
             }
           }
@@ -153,15 +153,17 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
-    "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
-    "01_Projects/My Personal Project/Meetings/AAAA.md",
-    "Templates/Project - Meeting Note.md",
-    "Templates/Project.md",
-    "Templates/Resource.md",
+    "Templates/Map of Content.md",
+    "Templates/Daily Note.md",
     "Templates/Resource - Device.md",
+    "Templates/Project - Meeting Note.md",
+    "Templates/Resource.md",
+    "06_DailyNotes",
+    "01_Projects/My Personal Project/Meetings/AAAA.md",
+    "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
+    "Templates/Project.md",
     "Templates/Resource - Document.md",
     "Templates/Project - Issue.md",
-    "Templates/Map of Content.md",
     "Templates/Area.md",
     "01_Projects/My Personal Project/Meetings/AAA.md",
     "01_Projects/Another Personal Project/Another Personal Project.md",
@@ -172,7 +174,6 @@
     "My Meeting Note1.md",
     "01_Projects/Another Personal Project/Issues/Personal Issue.md",
     "05_MOCs/My MOC.md",
-    "Templates/Untitled.md",
     "02_Areas/My Work Area.md",
     "02_Areas/My Personal Area.md",
     "01_Projects/My Personal Project/Issues/Another Personal Issue.md",
@@ -186,9 +187,7 @@
     "01_Projects/Another Personal Project",
     "01_Projects/My Work Project/My Work Project.md",
     "04_Archives/01_Projects",
-    "01_Projects/My Work Project/Meeting Notes",
     "03_Resources/Document/Essay/My Essay.md",
-    "03_Resources/Document/Poem/My Poem.md",
     "Untitled.canvas"
   ]
 }

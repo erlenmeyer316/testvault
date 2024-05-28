@@ -42,17 +42,6 @@ tags:
 # Actions
 - 
 
-# Recent Meetings
-```dataview
-TABLE WITHOUT ID
-meeting_date as "Date",
-location as "Location",
-file.link as "Note"
-FROM "01_Projects/<% project %>/Meetings"
-SORT meeting_date DESC
-WHERE meeting_date < date("today")
-```
-
 <%*
 let projectIssue = `/01_Projects/${project}/Meetings/` 
 await tp.file.move(projectIssue + noteTitle);
