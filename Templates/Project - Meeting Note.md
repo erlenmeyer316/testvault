@@ -16,8 +16,10 @@
 
 	let location = await tp.system.suggester(["Virtual", "In Person"], ["Virtual", "In Person"])
 %>
-title:  
+title: <% noteTitle %> 
 project: "[[ <% project %>]]"
+location: <% location %>
+date: <% date %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
@@ -28,7 +30,6 @@ tags:
 - ???
 
 # Meeting Details
-- **Topic:** <% noteTitle %>  
 - **Location:** <% location %>
 - **Date:** <% date %>
 - **Time/Duration:** xx:xx - xx:xx
@@ -45,7 +46,7 @@ tags:
 # Recent Meetings
 ```dataview
 LIST
-FROM '01_Projects/<% project %>/Meeting Notes'
+FROM '01_Projects/<% project %>/Meetings
 SORT BY created
 ```
 ---
@@ -53,6 +54,6 @@ SORT BY created
 **Tags:** 
 ```
 <%*
-let projectIssue = `/01_Projects/${project}/Meeting Notes/` 
+let projectIssue = `/01_Projects/${project}/Meetings/` 
 await tp.file.move(projectIssue + noteTitle);
 -%>
