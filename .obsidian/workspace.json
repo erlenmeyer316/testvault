@@ -31,7 +31,6 @@
       {
         "id": "2550c83bad01603f",
         "type": "tabs",
-        "dimension": 61.79624664879356,
         "children": [
           {
             "id": "52c99c6028aebc5f",
@@ -59,43 +58,18 @@
             }
           }
         ]
-      },
-      {
-        "id": "fc5682ffe15f6af8",
-        "type": "tabs",
-        "dimension": 38.20375335120643,
-        "children": [
-          {
-            "id": "3d5249f8c7bb74d3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff0acc619b10f1fd",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "right": {
     "id": "50f6a9b7d7d17a80",
     "type": "split",
     "children": [
       {
-        "id": "f59ed37695249b49",
+        "id": "b4e9c5d7eafc631e",
         "type": "tabs",
-        "dimension": 40.3485254691689,
         "children": [
           {
             "id": "22d7c581919ad799",
@@ -108,9 +82,8 @@
         ]
       },
       {
-        "id": "b4e9c5d7eafc631e",
+        "id": "2ca822978a04efb9",
         "type": "tabs",
-        "dimension": 59.651474530831095,
         "children": [
           {
             "id": "3796f88f55c251c1",
@@ -162,11 +135,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +152,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "52c99c6028aebc5f",
+  "active": "b59168cd7c5e23cc",
   "lastOpenFiles": [
     "Templates/Daily Note.md",
     "Templates/Map of Content.md",
