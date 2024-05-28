@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Area.md",
-                "mode": "source",
+                "file": "Templates/Daily Note.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "50f6a9b7d7d17a80",
@@ -70,6 +71,7 @@
       {
         "id": "b4e9c5d7eafc631e",
         "type": "tabs",
+        "dimension": 41.28686327077748,
         "children": [
           {
             "id": "22d7c581919ad799",
@@ -84,6 +86,7 @@
       {
         "id": "2ca822978a04efb9",
         "type": "tabs",
+        "dimension": 58.71313672922251,
         "children": [
           {
             "id": "3796f88f55c251c1",
@@ -91,7 +94,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Area.md"
+                "file": "Templates/Daily Note.md"
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Area.md",
+                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Area.md",
+                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +158,7 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
+    "Templates/Area.md",
     "Templates/Daily Note.md",
     "Templates/Map of Content.md",
     "Templates/Project.md",
@@ -165,7 +170,6 @@
     "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
     "Templates/Resource - Document.md",
     "Templates/Project - Issue.md",
-    "Templates/Area.md",
     "01_Projects/My Personal Project/Meetings/AAA.md",
     "01_Projects/Another Personal Project/Another Personal Project.md",
     "01_Projects/My Work Project/Meetings/My Work Note.md",

@@ -8,13 +8,28 @@
     }
   ],
   "file-explorer:new-file": [],
-  "surfing:search-in-current-page-title-bar": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "B"
+      "key": "["
     }
   ],
-  "editor:toggle-bold": []
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "surfing:search-in-current-page-title-bar": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "B"
+    }
+  ]
 }
