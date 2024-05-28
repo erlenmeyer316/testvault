@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "01_Projects/Another Personal Project/Another Personal Project.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "01_Projects/Another Personal Project/Another Personal Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "01_Projects/Another Personal Project/Another Personal Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Resource - Document.md"
+                "file": "01_Projects/Another Personal Project/Another Personal Project.md"
               }
             }
           }
@@ -153,6 +153,8 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
+    "My Work Note.md",
+    "Templates/Resource - Document.md",
     "Templates/Resource - Device.md",
     "Templates/Resource.md",
     "Templates/Project - Meeting Note.md",
@@ -163,7 +165,6 @@
     "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
     "01_Projects/My Personal Project/Meetings",
     "My Meeting Note1.md",
-    "Templates/Resource - Document.md",
     "01_Projects/Another Personal Project/Issues/Personal Issue.md",
     "05_MOCs/My MOC.md",
     "Templates/Untitled.md",
@@ -188,7 +189,6 @@
     "03_Resources/Document/Short Story/My Short Story.md",
     "03_Resources/Document/My General Document.md",
     "03_Resources/Devices/E Reader/My E-Reader.md",
-    "03_Resources/Devices/Smart Watch/My Smart Watch.md",
     "Untitled.canvas"
   ]
 }
