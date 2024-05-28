@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Area.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -152,7 +152,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b59168cd7c5e23cc",
+  "active": "3a680a264d282919",
   "lastOpenFiles": [
     "Templates/Daily Note.md",
     "Templates/Map of Content.md",
