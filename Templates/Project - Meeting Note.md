@@ -19,7 +19,7 @@
 title: <% noteTitle %> 
 project: "[[ <% project %>]]"
 location: <% location %>
-meeting_date: <% date.format.format("MMM Do YY") %>
+meeting_date: <% date.format("MMM Do, YYYY") %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>
 modified: 
 tags:
@@ -31,7 +31,7 @@ tags:
 
 # Meeting Details
 - **Location:** <% location %>
-- **Date:** <% date %>
+- **Date:** <% date.format("MMM Do, YYYY") %>
 - **Time/Duration:** xx:xx - xx:xx
 
 # Agenda
@@ -45,14 +45,15 @@ tags:
 
 # Recent Meetings
 ```dataview
-LIST
-FROM '01_Projects/<% project %>/Meetings
-SORT BY created
+TABLE WITHOUT ID
+meeting_date as "Date",
+location as "Location",
+file.link as "Note"
+FROM "01_Projects/<% project %>/Meetings"
+SORT meeting_date DESC
+WHERE meeting_date < date("today")
 ```
----
-```
-**Tags:** 
-```
+
 <%*
 let projectIssue = `/01_Projects/${project}/Meetings/` 
 await tp.file.move(projectIssue + noteTitle);

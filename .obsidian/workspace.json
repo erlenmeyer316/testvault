@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Project - Meeting Note.md",
+                "file": "Templates/Resource - Document.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project - Meeting Note.md",
+                "file": "Templates/Resource - Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project - Meeting Note.md",
+                "file": "Templates/Resource - Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Project - Meeting Note.md"
+                "file": "Templates/Resource - Document.md"
               }
             }
           }
@@ -153,14 +153,16 @@
   },
   "active": "3a680a264d282919",
   "lastOpenFiles": [
-    "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
-    "Templates/Project - Meeting Note.md",
-    "01_Projects/My Personal Project/Meetings",
-    "Templates/Project.md",
-    "Templates/Project - Issue.md",
-    "Templates/Resource.md",
-    "My Meeting Note1.md",
     "Templates/Resource - Device.md",
+    "Templates/Resource.md",
+    "Templates/Project - Meeting Note.md",
+    "Templates/Project - Issue.md",
+    "Templates/Project.md",
+    "Templates/Map of Content.md",
+    "Templates/Area.md",
+    "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
+    "01_Projects/My Personal Project/Meetings",
+    "My Meeting Note1.md",
     "Templates/Resource - Document.md",
     "01_Projects/Another Personal Project/Issues/Personal Issue.md",
     "05_MOCs/My MOC.md",
@@ -168,7 +170,6 @@
     "02_Areas/My Work Area.md",
     "02_Areas/My Personal Area.md",
     "01_Projects/My Personal Project/Issues/Another Personal Issue.md",
-    "Templates/Area.md",
     "01_Projects/My Personal Project/Meeting Notes",
     "01_Projects/My Personal Project/Issues",
     "01_Projects/My Personal Project",

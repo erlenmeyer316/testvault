@@ -33,8 +33,3 @@ if (! tp.file.exists(archiveHolder)) {
 	await this.app.vault.createFolder(archiveHolder)
 }
 -%>
-
-```
-
-**Tags:** 
-```
