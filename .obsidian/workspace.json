@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c506417a11974f8",
+        "id": "132cfcecefab0344",
         "type": "tabs",
         "children": [
           {
-            "id": "3a680a264d282919",
+            "id": "2c7f2eaf7983188d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,10 +167,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "52c99c6028aebc5f",
+  "active": "2c7f2eaf7983188d",
   "lastOpenFiles": [
-    "image-placeholder.jpeg",
     "2024-05-28.md",
+    "image-placeholder.jpeg",
     "Templates/Resource - Device.md",
     "Attachments",
     "Templates/Resource.md",
