@@ -18,8 +18,9 @@ await tp.file.move(dailyFolder + dailyYear + '/' + dailyMonthNum + " - " + daily
 -%>
 
 # <% tp.date.now("dddd Do MMMM YYYY") %>
-[[<% noteTitle("YYYY-MM-DD", -1) %>|← Yesterday]] - [[<% noteTitle("YYYY-MM-DD", +1) %>|Tomorrow →]]
+[[<% tp.date("YYYY-MM-DD", -1) %>|← Yesterday]] - [[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow →]]
 
+<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
 
 ## Tasks
 
