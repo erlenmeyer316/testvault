@@ -11,5 +11,7 @@
   "obsidian-tasks-plugin",
   "obsidian-minimal-settings",
   "OA-file-hider",
-  "attachment-management"
+  "attachment-management",
+  "consistent-attachments-and-links",
+  "obsidian-attachment-name-formatting"
 ]
