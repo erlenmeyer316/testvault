@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Resource - Device.md",
+                "file": "Templates/Daily Note.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Resource - Device.md"
+                "file": "Templates/Daily Note.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Resource - Device.md",
+                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Resource - Device.md",
+                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +169,7 @@
   },
   "active": "c8d78c4539ebe5cf",
   "lastOpenFiles": [
+    "Templates/Resource - Device.md",
     "Templates/Daily Note.md",
     "Templates/Map of Content.md",
     "Daily_Note/2024/06 - June/2024-06-02.md",
@@ -186,7 +187,6 @@
     "Templates/Project - Issue.md",
     "Templates/Project - Meeting Note.md",
     "Templates/Resource - Document.md",
-    "Templates/Resource - Device.md",
     "Templates/Resource.md",
     "Templates/_attachments/Resource - Device_image_1.jpeg",
     "03_Resources/Devices/Usb Thumb Drive/_attachments",
