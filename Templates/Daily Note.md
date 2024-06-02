@@ -10,16 +10,15 @@ tags:
   - <% baseTag %>
 ---
 <%*
-let dailyFolder = "/Daily/" 
+let dailyFolder = "/Daily Notes/" 
 let dailyYear = tp.date.now("YYYY")
-let dailyMonthNum = tp.date.now("MM")
-let dailyMonth = tp.date.now("MMMM")
-await tp.file.move(dailyFolder + dailyYear + '/' + dailyMonthNum + " - " + dailyMonth + '/' + noteTitle);
+let dailyMonth = tp.date.now("MM-MMMM")
+await tp.file.move(dailyFolder + dailyYear + '/' dailyMonth + '/' + noteTitle);
 -%>
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
-<< [[Timestamps/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
+<< [[Daily Notes/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
 
 ---
 ### 📅 Daily Questions
