@@ -35,4 +35,4 @@ await tp.file.move(resourceHolder + noteTitle);
 > Name: <% noteTitle %>
 
 > [!example] Image
-> ![[Resource - Device_image_1.jpeg|200px]]
+> ![[_attachments/device_image.jpeg]]
