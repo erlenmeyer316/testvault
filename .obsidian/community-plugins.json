@@ -4,6 +4,7 @@
   "surfing",
   "callout-manager",
   "dataview",
+  "obsidian-git",
   "obsidian-projects",
   "frontmatter-links",
   "tag-wrangler",
@@ -11,7 +12,6 @@
   "obsidian-tasks-plugin",
   "obsidian-minimal-settings",
   "OA-file-hider",
-  "attachment-management",
   "consistent-attachments-and-links",
   "obsidian-attachment-name-formatting"
 ]
