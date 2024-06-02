@@ -8,8 +8,6 @@
 	await tp.file.rename(noteTitle);
   } 
   baseTag = "project"
-
-
 %>
 title: <% noteTitle %>
 area: "[[<% projectArea %>]]"
