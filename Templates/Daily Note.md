@@ -17,54 +17,35 @@ let dailyMonth = tp.date.now("MMMM")
 await tp.file.move(dailyFolder + dailyYear + '/' + dailyMonthNum + " - " + dailyMonth + '/' + noteTitle);
 -%>
 
-# <% tp.date.now("dddd Do MMMM YYYY") %>
-[[<% tp.date("YYYY-MM-DD", -1) %>|← Yesterday]] - [[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow →]]
+# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
-<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
+<< [[Timestamps/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
 
-## Tasks
+---
+### 📅 Daily Questions
+##### 🌜 Last night, after work, I...
+- 
 
-#### Over Due
+##### 🙌 One thing I'm excited about right now is...
+- 
 
-```tasks
-not done
-due before <% tp.date.now("YYYY-MM-DD") %>
+##### 🚀 One+ thing I plan to accomplish today is...
+- [ ] 
+
+##### 👎 One thing I'm struggling with today is...
+- 
+
+---
+# 📝 Notes
+- <% tp.file.cursor() %>
+
+---
+### Notes created today
+```dataview
+List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
 ```
 
-#### Due Today
-
-```tasks
-not done
-due on <% tp.date.now("YYYY-MM-DD") %>
-```
-
-#### New Tasks
-
-## Daily Check List
-
-### Start of Day
-
-- [ ] Check Email
-- [ ] Check Teams
-- [ ] Check Calendar
-
-### End of Day
-
-- [ ] Show Offline
-- [ ] File Resources
-- [ ] Update Tasks
-
-## Other Tasks
-
-#### No Due Date
-
-```tasks
-not done
-no due date
-```
-
-#### Done Today
-
-```tasks
-done on <% tp.date.now("YYYY-MM-DD") %>
+### Notes last touched today
+```dataview
+List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
 ```
