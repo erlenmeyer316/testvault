@@ -10,9 +10,11 @@
     ".obsidian/"
   ],
   "ignoreFiles": [
-    "consistency\\-report\\.md"
+    "consistency\\-report\\.md",
+    "Templates\\.md"
   ],
   "ignoreFilesRegex": [
+    {},
     {}
   ],
   "attachmentsSubfolder": "_attachments",

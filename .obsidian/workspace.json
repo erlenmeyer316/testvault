@@ -11,11 +11,9 @@
             "id": "c8d78c4539ebe5cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2024-06-02.md",
-                "mode": "source",
-                "source": true
+                "file": "03_Resources/Devices/Usb Thumb Drive/_attachments/Resource - Device_image_1.jpeg"
               }
             }
           }
@@ -105,7 +103,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024-06-02.md"
+                "file": "03_Resources/Devices/Usb Thumb Drive/_attachments/Resource - Device_image_1.jpeg"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-02.md",
+                "file": "03_Resources/Devices/Usb Thumb Drive/_attachments/Resource - Device_image_1.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-02.md",
+                "file": "03_Resources/Devices/Usb Thumb Drive/_attachments/Resource - Device_image_1.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +167,14 @@
   },
   "active": "c8d78c4539ebe5cf",
   "lastOpenFiles": [
+    "Templates/Resource - Device.md",
+    "03_Resources/Devices/Usb Thumb Drive/_attachments",
+    "03_Resources/Devices/Usb Thumb Drive",
+    "03_Resources/Devices",
+    "03_Resources/Devices/Usb Thumb Drive/Farts.md",
+    "03_Resources/Devices/Usb Thumb Drive/_attachments/Resource - Device_image_1.jpeg",
+    "03_Resources/Devices/Usb Thumb Drive/Butts.md",
+    "Templates/_attachments",
     "2024-06-02.md",
     "03_Resources/Devices/Usb Thumb Drive/Test.md",
     "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources/Devices/Usb Thumb Drive/attachments/Test/Test-20240602175122369.jpeg",
@@ -179,12 +185,7 @@
     "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources/Devices",
     "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources",
     "03_Resources/Devices/Usb Thumb Drive/Attachments",
-    "03_Resources/Devices/Usb Thumb Drive",
-    "03_Resources/Devices",
-    "03_Resources",
     "2024-05-28.md",
-    "Templates/Resource - Device.md",
-    "Attachments",
     "Templates/Resource.md",
     "Templates/Resource - Document.md",
     "Templates/Project - Meeting Note.md",
@@ -203,8 +204,6 @@
     "03_Resources/General Resource.md",
     "03_Resources/General Resource.md",
     "01_Projects/My Personal Project/Meetings/AAAA.md",
-    "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
-    "01_Projects/My Personal Project/Meetings/AAA.md",
     "Untitled.canvas"
   ]
 }
