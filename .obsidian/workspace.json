@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "132cfcecefab0344",
+        "id": "bb2e5a6c76c4cc5f",
         "type": "tabs",
         "children": [
           {
-            "id": "2c7f2eaf7983188d",
+            "id": "c8d78c4539ebe5cf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 323.5
   },
   "right": {
     "id": "50f6a9b7d7d17a80",
@@ -159,11 +159,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2c7f2eaf7983188d",
+  "active": "c8d78c4539ebe5cf",
   "lastOpenFiles": [
+    "03_Resources/Devices/Usb Thumb Drive/Test.md",
+    "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources/Devices/Usb Thumb Drive/attachments/Test/Test-20240602175122369.jpeg",
+    "Untitled.md",
+    "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources/Devices/Usb Thumb Drive/attachments/Test",
+    "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources/Devices/Usb Thumb Drive/attachments",
+    "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources/Devices/Usb Thumb Drive",
+    "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources/Devices",
+    "03_Resources/Devices/Usb Thumb Drive/Attachments/03_Resources",
+    "03_Resources/Devices/Usb Thumb Drive/Attachments",
+    "03_Resources/Devices/Usb Thumb Drive",
+    "03_Resources/Devices",
+    "03_Resources",
     "2024-06-02.md",
     "2024-05-28.md",
-    "image-placeholder.jpeg",
     "Templates/Resource - Device.md",
     "Attachments",
     "Templates/Resource.md",
@@ -175,29 +186,17 @@
     "Templates/Daily Note.md",
     "Templates/Area.md",
     "03_Resources/Asses.md",
-    "04_Archives/03_Resources",
-    "04_Archives",
     "03_Resources/Butts.md",
     "03_Resources/Farts.md",
     "03_Resources/AAAA.md",
     "03_Resources/Genearl Note 3.md",
     "03_Resources/General Resource 3.md",
     "03_Resources/General Resource 2.md",
-    "03_Resources",
     "03_Resources/General Resource.md",
     "03_Resources/General Resource.md",
-    "06_DailyNotes",
     "01_Projects/My Personal Project/Meetings/AAAA.md",
     "01_Projects/My Personal Project/Meetings/My Meeting Note 2.md",
     "01_Projects/My Personal Project/Meetings/AAA.md",
-    "01_Projects/Another Personal Project/Another Personal Project.md",
-    "01_Projects/My Work Project/Meetings/My Work Note.md",
-    "01_Projects/My Work Project/Meetings",
-    "01_Projects/My Personal Project/Meetings/My Meeting Note.md",
-    "01_Projects/My Personal Project/Meetings",
-    "01_Projects/My Personal Project/Meeting Notes",
-    "01_Projects/My Personal Project/Issues",
-    "01_Projects/My Personal Project",
     "Untitled.canvas"
   ]
 }

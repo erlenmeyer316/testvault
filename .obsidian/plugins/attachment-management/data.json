@@ -1,9 +1,9 @@
 {
   "attachPath": {
-    "attachmentRoot": "",
-    "saveAttE": "obsFolder",
+    "attachmentRoot": "attachments",
+    "saveAttE": "nextToNote",
     "attachmentPath": "${notepath}/attachments/${notename}",
-    "attachFormat": "IMG-${date}",
+    "attachFormat": "${notename}-${date}",
     "type": "GLOBAL",
     "extensionOverride": []
   },

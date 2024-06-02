@@ -35,4 +35,4 @@ await tp.file.move(resourceHolder + noteTitle);
 > Name: <% noteTitle %>
 
 > [!example] Image
-> ![[image-placeholder.jpeg | 200px]]
+> ![[Test-20240602175122369.jpeg| 200px]]

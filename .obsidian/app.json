@@ -6,5 +6,6 @@
   "foldIndent": true,
   "showLineNumber": true,
   "vimMode": false,
-  "attachmentFolderPath": "./Attachments"
+  "attachmentFolderPath": "./Attachments",
+  "alwaysUpdateLinks": true
 }
