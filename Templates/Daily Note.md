@@ -47,14 +47,27 @@ not done
 due before <% tp.date.now("YYYY-MM-DD") %>
 ```
 
-#### 🌞 Due Today
+#### 🟨 Due Today
 
 ```tasks
 not done
 due on <% tp.date.now("YYYY-MM-DD") %>
 ```
 
-#### New Tasks
+#### 🦄 No Due Date
+
+```tasks
+not done
+no due date
+```
+
+#### 🚼 New Tasks
+
+#### ✅ Done Today
+
+```tasks
+done on <% tp.date.now("YYYY-MM-DD") %>
+```
 
 ## Daily Check List
 
@@ -70,20 +83,6 @@ due on <% tp.date.now("YYYY-MM-DD") %>
 - [ ] File Resources
 - [ ] Update Tasks
 
-## Other Tasks
-
-#### No Due Date
-
-```tasks
-not done
-no due date
-```
-
-#### Done Today
-
-```tasks
-done on <% tp.date.now("YYYY-MM-DD") %>
-```
 # 📝 Notes
 - <% tp.file.cursor() %>
 
