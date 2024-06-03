@@ -58,13 +58,13 @@
       "yaml-sort-order-for-other-keys": "None"
     },
     "yaml-timestamp": {
-      "enabled": true,
-      "date-created": true,
-      "date-created-key": "created",
-      "force-retention-of-create-value": true,
+      "enabled": false,
+      "date-created": false,
+      "date-created-key": "date created",
+      "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "modified",
-      "format": "MMMM Do YYYY, h:mm:ss a"
+      "date-modified-key": "date modified",
+      "format": "dddd, MMMM Do YYYY, h:mm:ss a"
     },
     "yaml-title": {
       "enabled": false,
@@ -262,13 +262,15 @@
       "enabled": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
-  "lintOnFileChange": false,
+  "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "Templates"
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
