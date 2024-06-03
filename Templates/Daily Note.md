@@ -38,6 +38,8 @@ await tp.file.move(dailyFolder + dailyYear + '/' + dailyMonth + '/' + noteTitle)
 ### 🪷 Daily Haiku
 - 
 ---
+### 👷🏽‍♂️ Active Projects
+	-- 
 ### 📋 Tasks
 
 ##### 🆘 Over Due
