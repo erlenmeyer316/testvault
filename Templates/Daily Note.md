@@ -1,7 +1,7 @@
 ---
 <%*
  let noteTitle = tp.file.title
-  baseTag = "daily"
+  baseTag = "daily-note"
 -%>
 title: <% noteTitle %>
 created: <% tp.date.now('MMMM Do YYYY, h:mm:ss a') %>

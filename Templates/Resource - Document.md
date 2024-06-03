@@ -7,7 +7,7 @@
 	await tp.file.rename(noteTitle);
   } 
   // set base tag
-  baseTag = "resource"
+  baseTag = "resource/document"
   // get document type
   docType = await tp.system.suggester(["Document", "Short Story", "Poem", "Essay"], ["document", "short_story", "poem", "essay"])
   // determine subtag based on document type

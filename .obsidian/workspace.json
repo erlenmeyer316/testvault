@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "Templates/Area.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Resource - Document.md"
+                "file": "Templates/Area.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "Templates/Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Resource - Document.md",
+                "file": "Templates/Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,11 +169,6 @@
   },
   "active": "c8d78c4539ebe5cf",
   "lastOpenFiles": [
-    "Daily Notes/2024/06-June/2024-06-02-Sunday.md",
-    "Daily Notes/2024/06-June",
-    "Daily Notes/2024",
-    "Daily Notes",
-    "Templates/Area.md",
     "Templates/Daily Note.md",
     "Templates/Map of Content.md",
     "Templates/Project.md",
@@ -182,6 +177,11 @@
     "Templates/Resource.md",
     "Templates/Resource - Device.md",
     "Templates/Resource - Document.md",
+    "Daily Notes/2024/06-June/2024-06-02-Sunday.md",
+    "Daily Notes/2024/06-June",
+    "Daily Notes/2024",
+    "Daily Notes",
+    "Templates/Area.md",
     "Daily Notes/2024/06-June/2024-06-03-Monday.md",
     "Daily Notes/2024-06-02.md",
     "Daily/2024/06 - June/2024-06-02.md",

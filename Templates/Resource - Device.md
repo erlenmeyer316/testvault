@@ -7,7 +7,7 @@
 	await tp.file.rename(noteTitle);
   } 
   // set base tag
-  baseTag = "resource"
+  baseTag = "resource/device"
   
   // get device type
   deviceType = await tp.system.suggester(["USB Thumb Drive", "Laptop", "Desktop", "Tablet", "Phone", "Smart Watch", "E-Reader"], ["usb_thumb_drive", "laptop", "desktop", "tablet", "phone", "smart_watch", "e_reader"])
