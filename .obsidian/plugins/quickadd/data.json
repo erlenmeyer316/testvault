@@ -23,8 +23,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
@@ -51,8 +51,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
@@ -79,8 +79,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
@@ -107,8 +107,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
@@ -135,8 +135,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
@@ -163,8 +163,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
@@ -191,8 +191,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
@@ -219,8 +219,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     }
