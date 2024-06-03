@@ -18,7 +18,7 @@ let mocFolder = "/05_MOCs/"
 await tp.file.move(mocFolder + noteTitle);
 -%>
 
-<% noteTitle %> Query
+<% noteTitle %> Query<% tp.file.cursor() %>
 
 ```dataview
 TABLE WITHOUT ID "WRITE YOUR QUERY FOR <% noteTitle %>" LIMIT 1

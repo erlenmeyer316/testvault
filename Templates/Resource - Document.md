@@ -40,3 +40,4 @@ if (!docType.startsWith("document")) {
 }
 await tp.file.move(resourceHolder + noteTitle);
 -%>
+<% tp.file.cursor() %>

@@ -24,3 +24,4 @@ await tp.file.move(projectFolder + noteTitle);
 await this.app.vault.createFolder(projectFolder + issuesFolder)
 await this.app.vault.createFolder(projectFolder + mtgNotesFolders)
 -%>
+<% tp.file.cursor() %>

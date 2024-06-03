@@ -33,6 +33,7 @@ await tp.file.move(resourceHolder + noteTitle);
 
 > [!abstract] Device Info
 > Name: <% noteTitle %>
+>  <% tp.file.cursor() %>
 
 > [!example] Image
 > ![[_attachments/device_image.jpeg]]

@@ -18,12 +18,8 @@ modified:
 tags:
   - <% baseTag + subTag %>
 ---
-<%*
-let areaFolder = "/02_Areas/" 
-await tp.file.move(areaFolder + noteTitle);
--%>
-
 ## About
+<% tp.file.cursor() %>
 ## Goals
 ## Notes
 ## Urls

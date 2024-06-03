@@ -19,3 +19,4 @@ tags:
 let resourceHolder = "/03_Resources/" 
 await tp.file.move(resourceHolder + noteTitle);
 -%>
+<% tp.file.cursor() %>

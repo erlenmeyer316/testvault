@@ -26,7 +26,7 @@ tags:
 ---
 # Attendees
 - Adam Dickison
-- ???
+- <% tp.file.cursor() %>
 
 # Meeting Details
 - **Location:** <% location %>

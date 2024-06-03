@@ -29,7 +29,7 @@ tags:
   - project/issue
 ---
 > [!summary] Comments
->  <% summary %>
+>  <% summary %><% tp.file.cursor() %>
 
 > [!blocking] Blocking
 > 
