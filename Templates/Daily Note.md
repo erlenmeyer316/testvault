@@ -13,8 +13,8 @@ tags:
 let dailyFolder = "/Daily Notes/" 
 let dailyYear = tp.date.now("YYYY")
 let dailyMonth = tp.date.now("MM-MMMM")
-console.log(dailyFolder + dailyYear + '/' + dailyMonth + '/')
-//await tp.file.move(dailyFolder + dailyYear + "/" dailyMonth + "/" + noteTitle);
+console.log(dailyFolder + dailyYear + '/' + dailyMonth + '/' + noteTitle)
+await tp.file.move(dailyFolder + dailyYear + '/' + dailyMonth + '/' + noteTitle);
 -%>
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
@@ -22,6 +22,9 @@ console.log(dailyFolder + dailyYear + '/' + dailyMonth + '/')
 << [[<% dailyFolder %>/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[<% dailyFolder %>/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
 
 ---
+### 🪷 Daily Haiku
+- 
+
 ### 📅 Daily Questions
 ##### 🌜 Last night, after work, I...
 - 
