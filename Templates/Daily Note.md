@@ -22,9 +22,6 @@ await tp.file.move(dailyFolder + dailyYear + '/' + dailyMonth + '/' + noteTitle)
 << [[<% dailyFolder %>/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[<% dailyFolder %>/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
 
 ---
-### 🪷 Daily Haiku
-- 
-
 ### 📅 Daily Questions
 ##### 🌜 Last night, after work, I...
 - 
@@ -38,7 +35,55 @@ await tp.file.move(dailyFolder + dailyYear + '/' + dailyMonth + '/' + noteTitle)
 ##### 👎 One thing I'm struggling with today is...
 - 
 
+### 🪷 Daily Haiku
+- 
 ---
+### 📋 Tasks
+
+##### 🆘 Over Due
+
+```tasks
+not done
+due before <% tp.date.now("YYYY-MM-DD") %>
+```
+
+#### 🌞 Due Today
+
+```tasks
+not done
+due on <% tp.date.now("YYYY-MM-DD") %>
+```
+
+#### New Tasks
+
+## Daily Check List
+
+### Start of Day
+
+- [ ] Check Email
+- [ ] Check Teams
+- [ ] Check Calendar
+
+### End of Day
+
+- [ ] Show Offline
+- [ ] File Resources
+- [ ] Update Tasks
+
+## Other Tasks
+
+#### No Due Date
+
+```tasks
+not done
+no due date
+```
+
+#### Done Today
+
+```tasks
+done on <% tp.date.now("YYYY-MM-DD") %>
+```
 # 📝 Notes
 - <% tp.file.cursor() %>
 
