@@ -13,7 +13,8 @@ tags:
 let dailyFolder = "/Daily Notes/" 
 let dailyYear = tp.date.now("YYYY")
 let dailyMonth = tp.date.now("MM-MMMM")
-await tp.file.move(dailyFolder + dailyYear + "/" dailyMonth + "/" + noteTitle);
+console.log(dailyFolder + dailyYear + '/' + dailyMonth + '/')
+//await tp.file.move(dailyFolder + dailyYear + "/" dailyMonth + "/" + noteTitle);
 -%>
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
