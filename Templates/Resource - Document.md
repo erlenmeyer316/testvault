@@ -11,7 +11,11 @@
   // get document type
   docType = await tp.system.suggester(["Document", "Short Story", "Poem", "Essay"], ["document", "short_story", "poem", "essay"])
   // determine subtag based on document type
-  subTag = `/${docType}`
+  if (!docType.startsWith("document")) {
+    subTag = `/${docType}`
+  } else {
+	subTag = ``
+  }
   // determine subfolder based on document type
   subFolder = tp.user.snake_case_to_title_case(docType)
   // get document title, prefill with note title
